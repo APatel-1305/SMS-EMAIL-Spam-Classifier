@@ -1,1 +1,1 @@
-In this project, we have try to build an email/sms spam classifier. We compared various algorithms and feature extration methods to find the best pair with highest precision. We have used tfidf and Multinomial Naive Bayes algorithms. And have created a project using streamlit.
+In this project, we have tried to build an email/sms spam classifier. We compared various algorithms and feature extraction methods to find the best pair with the highest precision. We have used TF-IDF and Multinomial Naive Bayes algorithms. And have created a project using Streamlit.
